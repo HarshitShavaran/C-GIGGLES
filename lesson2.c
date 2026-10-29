@@ -137,8 +137,6 @@ int main(void)
         a=b;
         b=c;
     }
-
-
 }
 
 
